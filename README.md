@@ -37,7 +37,7 @@ Sezon,
 Ay,
 Haftanın Günü,
 Son 5 Maç Gol Ort özellikleri **feature engineering** yapılarak oluşturulmuştur.* </br> </br>
-Daha sonrasında elimizdeki veriler üzerinden **veri görselleştirme ve korelasyon analizi** gerçekleştirildi. Bunlara da aşağıda yer verilmiştir.*
+*Daha sonrasında elimizdeki veriler üzerinden **veri görselleştirme ve korelasyon analizi** gerçekleştirildi. Bunlara da aşağıda yer verilmiştir.*
 
 </br> </br>
 ### Veri Görselleştirme </br> 
