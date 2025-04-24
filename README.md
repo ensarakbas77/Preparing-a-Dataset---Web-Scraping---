@@ -29,14 +29,15 @@ Gol Farkı,
 Sezon,
 Ay,
 Haftanın Günü,
-Son 5 Maç Gol Ort,* 
+Son 5 Maç Gol Ort,
+Son 5 Maç Galibiyet Oranı* 
 </br> </br>
 *Şut Verimliliği(İsabetli Şut/Şut),
 Gol Farkı,
 Sezon,
 Ay,
 Haftanın Günü,
-Son 5 Maç Gol Ort özellikleri **feature engineering** yapılarak oluşturulmuştur.* </br> </br>
+Son 5 Maç Gol Ort ve Son 5 Maç Galibiyet Oranı özellikleri **feature engineering** yapılarak oluşturulmuştur.* </br> </br>
 *Daha sonrasında elimizdeki veriler üzerinden **veri görselleştirme ve korelasyon analizi** gerçekleştirildi. Bunlara da aşağıda yer verilmiştir.*
 
 </br> </br>
@@ -49,4 +50,4 @@ Son 5 Maç Gol Ort özellikleri **feature engineering** yapılarak oluşturulmu�
 </br> </br> 
 ### Korelasyon Analizi  </br>
 <img width="1257" alt="1" src="https://github.com/user-attachments/assets/cf82a10d-75d2-4b0c-bc08-7a5342a490ef" />
-<img width="1236" alt="2" src="https://github.com/user-attachments/assets/62d2e579-b190-4318-aaa4-d1a4aef4192b" />
+<img width="1182" alt="2" src="https://github.com/user-attachments/assets/793b4c50-f9d0-4fc4-bc82-73d5ab4516fd" />
